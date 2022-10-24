@@ -1,9 +1,9 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="VUE3 APPLICATION SAMPLE"/>
+    <HelloWorld msg="VUE3 APPLICATION SAMPLE123"/>
   </div>
-</template>
+</template>or
 
 <script>
 // @ is an alias to /src
