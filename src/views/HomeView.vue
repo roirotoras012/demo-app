@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="VUE3 APPLICATION BRANCH 1"/>
+    <HelloWorld msg="VUE3 APPLICATION BRANCH new commit"/>
   </div>
 </template>
 
